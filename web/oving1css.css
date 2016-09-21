@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    width:1500px;
+    text-align:center;
+    background-color:beige;
+}

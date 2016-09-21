@@ -1,0 +1,58 @@
+#pic2 {
+    background: url(http://www.templera.com/wp-content/uploads/edd/2015/04/Banner-Background-008.jpg);
+    height:100px;
+    width:100px;
+    background-size: cover;
+}
+#pic2:hover {
+    background: url(http://ad-design.966v.com/static_images/20160730/d64b6330d1b800a731030cceb4d609028f969b3bebee8bd4b7b958e4.jpg);
+}
+#pic1 {
+    height:100px;
+    width:100px;
+}
+#pic3 {
+    height:100px;
+    width:100px;
+}
+.pics {
+    display: inline-block;
+}
+
+html {
+    display: block;
+}
+#bondesjakkbrett {
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 1px;
+    border-color: grey;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.tab {
+    background-color: grey;
+}
+.rodtab {
+    background-color: red;
+}
+.gronntab {
+    background-color: green;
+}
+.green {
+    color:green;
+}
+.red {
+    color:red;
+}
+.black {
+    color:black;
+}
